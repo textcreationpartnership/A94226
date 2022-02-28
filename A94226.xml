@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A speech of the right honorable the Lord Vicount Say and Seale, one of his Maiesties Privie Councell. Spoken in Parliament the 25th. day of February Anno Dom. 1642. Concerning the Bishop of Canterburies petition, delivered to the High Court of Parliament, February the 22. 1642. Avouched by Richard Browne, Clericus.</title>
+            <author>Saye and Sele, William Fiennes, Viscount, 1582-1662.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94226</idno>
+            <idno type="STC">Wing S793</idno>
+            <idno type="STC">Thomason E200_35</idno>
+            <idno type="STC">ESTC R13285</idno>
+            <idno type="EEBO-CITATION">99859450</idno>
+            <idno type="PROQUEST">99859450</idno>
+            <idno type="VID">157575</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94226)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157575)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 35:E200[35])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A speech of the right honorable the Lord Vicount Say and Seale, one of his Maiesties Privie Councell. Spoken in Parliament the 25th. day of February Anno Dom. 1642. Concerning the Bishop of Canterburies petition, delivered to the High Court of Parliament, February the 22. 1642. Avouched by Richard Browne, Clericus.</title>
+                  <author>Saye and Sele, William Fiennes, Viscount, 1582-1662.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed T. Bankes,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The "m" in "Dom" (line 10) is inverted.</note>
+                  <note>Annotation on Thomason copy: "1641".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Speeches, addresses, etc., English --  Early works to 1800.</term>
+               <term>Church and state --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157575:1" rendition="simple:additions"/>
+            <p>A SPEECH of the Right Honorable the Lord Vicount Say and Seale, one of his Maieſties Privie Councell.</p>
+            <p>SPOKEN IN PARLIA<g ref="char:EOLhyphen"/>ment the 25<hi rend="sup">th.</hi> day of February, <hi>Anno Dom.</hi> 1642. Concerning the Biſhop of <hi>Canterburies</hi> Petition, delivered to the High Court of Parliament, <hi>February</hi> the 22. 1642. <add>1641</add>
+            </p>
+            <p>Avouched by <hi>Richard Browne,</hi> Clericus.</p>
+            <p>
+               <hi>London,</hi> Printed <hi>T. Bankes.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:157575:2"/>
+            <pb facs="tcp:157575:2"/>
+            <head>A SPEECH OF THE right Honourable the Lord Vicount <hi>Saye</hi> and Seale, one of his Maieſties privy Councell.</head>
+            <head type="sub">Spoken in Parliament the twenty fifth day of <hi>February, Anno Dom.</hi> 1642. Concerning the Biſhop of <hi>Can<g ref="char:EOLhyphen"/>terburies</hi> Petition delivered to the high Court of Parliament. <hi>February,</hi> 22. 1642.</head>
+            <opener>
+               <salute>Master Speaker.</salute>
+            </opener>
+            <p>I Have waited to finde you free from greater bu<g ref="char:EOLhyphen"/>ſineſſes, that I might crave leave to ſpeake of ſome things concerning my ſelfe, and this I have the more deſired ſince my Lord of <hi>Canterburies</hi> Peti<g ref="char:EOLhyphen"/>tion, who expreſſing his troubles, and bewayling the miſery of his condition, and of the condition of the Church of <hi>England</hi> (for hee would needs ioyne them
+<pb n="2" facs="tcp:157575:3"/>together) which I thinke he may, as the cauſe and ef<g ref="char:EOLhyphen"/>fect, (for the miſeries of the Church have certainly riſen from him.) as alſo he inſiſted much upon this, that theſe troubles had befallen him through the ma<g ref="char:EOLhyphen"/>lice of two parties, the Papiſts, and the Sectaries, and by thoſe he ſaid the Church was greatly afflicted, how farre this man will extend this word Sectary, and whom he will comprehend under it I know not, but I have cauſe to feare; that I may lye under ſome miſ<g ref="char:EOLhyphen"/>apprehenſions in reſpect of matters of this Nature, which how farre it concerneth him, your Lordſhips will perceive by what I ſhall ſay. My Lord of <hi>Canter<g ref="char:EOLhyphen"/>bury</hi> a man of a meane birth, bred up in a Colledge (and that to frequently falls out to be in a faction, whoſe narrow comprehenſions extended it ſelfe no further, then to carry on a ſide in the colledge, or can<g ref="char:EOLhyphen"/>vas for a proctors place in the Vniverſity, being ſud<g ref="char:EOLhyphen"/>denly advanced to higheſt places of Government in Church and State, had not his heart inlarged, by the inlargement of his fortunes, but ſtill the maintaining of his party, was that which filled all his thoughts, which he proſecuted with ſo much violence, and in<g ref="char:EOLhyphen"/>conſiderateneſſe, that he had not an eye to ſee the con<g ref="char:EOLhyphen"/>ſequences thereof to Church ſtate; untill he brought both into ſuch diſtractions, danger and diſhonour which we now finde our ſelves incompaſſed with all.</p>
+            <p>My Lords, as for me he hath beene pleaſed to ſay that he had obſerved me, not to come to prayers and added that I was in his knowledge, as great a Separa<g ref="char:EOLhyphen"/>tiſt as any was in <hi>England.</hi>
+            </p>
+            <p>For the firſt of theſe that he chargeth upon me, it may be hee was willing to have it thought that I
+<pb n="3" facs="tcp:157575:3"/>would not joyne in prayer with your Lordſhips, (which is altogether falſe, for I ſhould moſt willingly joyne in prayer with you, and further I will adde that I doe not thinke but ſome ſet formes of prayer by ſome men, in ſome caſes, may be lawfully uſed, but this is that which I am not ſatisfied in that, a certaine number of men ſhould uſurpe an authority unto themſelves, to frame certaine prayers, and formes of divine ſervice, and when that is done under the name of the Church, to enjoyne them upon all perſons in all times, and upon all occaſions to be uſed, and no other.</p>
+            <p>This ſets aſide the gifts and graces which Chriſt hath given; and thruſts out the excerciſe of them to ſubſtitute in their places, and introduce a device of man, This mu<g ref="char:EOLhyphen"/>nition of ſuch formes upon all men, turnes that which in the beginning neceſſity brought in, for the helpe of inſu<g ref="char:EOLhyphen"/>ficiency, to be now the continuance and maintenance of inſufficiency, and a barre to the excerciſe of able and ſuf<g ref="char:EOLhyphen"/>ficient gifts, and graces, as if becauſe ſome men had need to make uſe of crutches, all men ſhould be prohibited, the uſe of their leggs, and inioyned to take up ſuch crutches as have beene prepared for thoſe who have no leggs, as for my part I will not refuſe to come to prayer; for I take the ſinne then to be perſonall, and to reſide in the perſon officiating onely I know not whether I expreſſe my ſelfe clearely in this or not, and it may ſeeme to be a vice ſcrupuloſitie, give me leave therefore to indeavour to cleare it by an inſtance or two, in the time of the law when God appointed himſelfe to be worſhiped by offe<g ref="char:EOLhyphen"/>rings, and ſacrifices, the ſhadowes and tipes of thoſe truthes which were to come, if a poore man that had not ability to bringe a Bullocke, or a Rame, or a
+<pb n="4" facs="tcp:157575:4"/>Lambe, had brought a paire of Turtle Doves, or two younge Pigeons, it would have beene in him an acceptable ſervice, but if a man of abilitie who had Heards and flockes, ſhoulde out of negligence or coveteouſneſſe have ſpared the coſte of a Bullocke or a Rame, and brought young Pigeons, his ſervice would have bene reiected, how much more would the ſervice have been abomination if men ſhould have taken autho<g ref="char:EOLhyphen"/>ritie, to have inioyned all to bring noe other but Turtle or young Pigeons, becauſe ſome were not able to doe more.</p>
+            <p>Now in this time of the goſpell God hath appointed the fooliſhneſſe of preaching, for ſo the world accountes it to be the meanes whereby he will ſave thoſe that be<g ref="char:EOLhyphen"/>leive, I conceive that where there are noe giftes enable<g ref="char:EOLhyphen"/>ing men to preach, there might be a lawful &amp; profitable uſe of reading of printed ſermons and Homilies and in ſuch caſe they might very lawfully be heard, but if ſome men upon pretence to prevent extravagant preaching ſhould take upon them to publiſh and ſett forth a booke of pub<g ref="char:EOLhyphen"/>licke and common ſermons, fitt for all times and occati<g ref="char:EOLhyphen"/>ons, and ſhould enioyne miniſters to conforme to thoſe, and uſe noe preaching at all, this would make it utterly unlawfull, and to be profeſſed againſt, as that which were the bringing in of a human device &amp; munition the place and inſtead of Gods ordinance, and therefore the evill of it would ſoone appeare to us if ſo inioynd. Therefore I hope your Lordſhipps will in that reſpect lett me ſtand right in your opinions, and I ſhall now end with two re<g ref="char:EOLhyphen"/>queſts.</p>
+            <p>The one that your Lordſhippes will pleaſe to pardon me for troublinge you with ſo longe adiſcourſe con<g ref="char:EOLhyphen"/>cerning my ſelfe.</p>
+            <p>
+               <pb n="5" facs="tcp:157575:4"/>
+The ſecond is humbly to intreate of you that where you know there is one and the ſame God worſhiped, one and the ſame faith embraced, one, and the ſame ſpirit moveing, workeing love and an unblameable converſa<g ref="char:EOLhyphen"/>tion with out any offence to the ſtate in your brethren that in all theſe concure with you, will not ſuffer them (for Ceremonies and things to you indifferent) but not to them, but theſe which with out offence to the ſtate, or preiudice to the Church you may take of, to be thruſt out of the Land, as it weare and cutt of from the native Countrie, for if thus you ſhall wound the conſciences of your brethren, you will certainely offend and ſinne a<g ref="char:EOLhyphen"/>gainſt Chriſt.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
